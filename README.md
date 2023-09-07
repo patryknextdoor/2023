@@ -1,2 +1,2 @@
 # 2023
-Studying data science and coding in Python 
+Studying data science and coding in Python
